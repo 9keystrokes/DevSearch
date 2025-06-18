@@ -1,5 +1,3 @@
-# DevSearch
-
 ![DevSearch Logo](static/images/logo.svg)
 
 ## 🚀 Overview
