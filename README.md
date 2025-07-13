@@ -1,6 +1,8 @@
 ![DevSearch Logo](static/images/logo.svg)
 
-## 🚀 Overview
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-green)](https://devsearch-project.onrender.com/)
+[![Deployment](https://img.shields.io/badge/Deployed%20on-Render-blue)](https://devsearch-project.onrender.com/)
+
 
 DevSearch is a platform that connects developers and showcases projects. It allows developers to create profiles, share their projects, and engage with the developer community. Built with Django, HTML, CSS, and JavaScript, DevSearch offers a robust feature set for developer networking and project discovery.
 
