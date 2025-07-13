@@ -22,7 +22,7 @@ Visit our platform at: [DevSearch](https://devsearch-project.onrender.com/)
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: PostgreSQL (with SQLite for development)
 - **Static Files**: Django Whitenoise
-- **Deployment**: Configured for Heroku
+- **Deployment**: Configured for Heroku/Render
 
 ## 📋 Project Structure
 
