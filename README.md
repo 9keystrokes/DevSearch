@@ -4,6 +4,9 @@
 
 DevSearch is a platform that connects developers and showcases projects. It allows developers to create profiles, share their projects, and engage with the developer community. Built with Django, HTML, CSS, and JavaScript, DevSearch offers a robust feature set for developer networking and project discovery.
 
+## 🌐 Live Demo
+Visit our platform at: [DevSearch](https://devsearch-project.onrender.com/)
+
 ## ✨ Features
 
 - **User Authentication**: Secure login, registration, and authentication system
